@@ -1,0 +1,29 @@
+﻿#!/bin/bash
+pwd = $PWD
+cd ~/repo/config
+# echo "upd.sh v2; Create by fftcc. notabug.org/fftcc/"
+# echo ""
+# echo "RUN GLOBAL UPDATE REPOSITORIES"
+# echo ""
+# echo "---------------------"
+# echo "update repo 'config'"
+# echo "---------------------"
+# echo ""
+# cd ~/repo/config
+# sh upd.sh
+# echo ""
+# echo "---------------------"
+# echo "update repo 'scripts'"
+# echo "---------------------"
+# echo ""
+# cd ../scripts
+# sh upd.sh
+# echo ""
+# echo "---------------------"
+# echo "update repo 'journal-dev'"
+# echo "---------------------"
+# echo ""
+# cd ../journal-dev
+# sh upd.sh
+# echo ""
+cd $pwd
